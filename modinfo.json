@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "clay_chem_set",
+    "name": "Clay Chemistry Set",
+    "authors": ["jamaisvu21"],
+    "description": "Lets the basic chemistry set be crafted from clay jars (MST Extra) instead of glass flasks, jars or bottles, so Innawood can reach CHEM 2 without finding glass first.  Needs CheesyInnaWoodsFixes and MST Extra.",
+    "category": "items",
+    "dependencies": ["bn", "CheesyInnaWoodFixes", "MST_Extra"]
+  }
+]
